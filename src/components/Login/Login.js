@@ -109,7 +109,6 @@ const Login = (props) => {
       type: "USER_INPUT",
       val: event.target.value,
     });
-
     //   setFormIsValid(emailState.isValid && event.target.value.trim().length > 6);
   };
 
